@@ -1,0 +1,17 @@
+[
+  {
+    "title": "الحلقة 1",
+    "description": "مقدمة عن البودكاست وأهدافه",
+    "audioUrl": "https://www.example.com/audio1.mp3"
+  },
+  {
+    "title": "الحلقة 2",
+    "description": "مقابلة مع خبير في المجال",
+    "audioUrl": "https://www.example.com/audio2.mp3"
+  },
+  {
+    "title": "الحلقة 3",
+    "description": "نقاش حول موضوع هام",
+    "audioUrl": "https://www.example.com/audio3.mp3"
+  }
+]
